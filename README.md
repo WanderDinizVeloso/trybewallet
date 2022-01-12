@@ -49,6 +49,14 @@ O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecno
 
 ---
 
+## Tecnologias utilizadas
+
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [React.js](https://pt-br.reactjs.org/)
+- [Redux](https://redux.js.org/)
+
+---
+
 # Requisitos do projeto
 
 ### Página de Login
